@@ -1,0 +1,32 @@
+{
+  "name": "nodeToSql",
+  "version": "1.0.0",
+  "description": "simple nodejs package based on "tedious" for interacting to sql server databases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VasoBolkvadze/nodeToSql.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mssql",
+    "sql",
+    "module",
+    "package",
+    "driver",
+    "transactsql",
+    "javascript"
+  ],
+  "author": "Vaso Bolkvadze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VasoBolkvadze/nodeToSql/issues"
+  },
+  "homepage": "https://github.com/VasoBolkvadze/nodeToSql",
+  "dependencies": {
+    "tedious": "^1.4.2"
+  }
+}
