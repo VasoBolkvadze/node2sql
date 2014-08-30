@@ -1,10 +1,10 @@
 {
   "name": "nodeToSql",
   "version": "1.0.0",
-  "description": "simple nodejs package based on "tedious" for interacting to sql server databases",
+  "description": "simple nodejs package based on 'tedious' for interacting to sql server databases",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",
