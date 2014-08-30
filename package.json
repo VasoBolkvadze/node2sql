@@ -1,6 +1,6 @@
 {
   "name": "node2sql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple nodejs package, (based on 'tedious') for interacting to sql server databases",
   "main": "index.js",
   "scripts": {
