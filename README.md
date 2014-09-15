@@ -1,5 +1,5 @@
 #Usage
-```
+```javascript
 var dataContext = require('nodeToSql')({
 		userName: 'sa',
 		password: 'pass',
@@ -10,8 +10,9 @@ var dataContext = require('nodeToSql')({
 	});
 ```
 ##querying
-```
+```javascript
   dataContext.query("SELECT TOP 10 * FROM Customers"
     , function(err,results){
         //Do whatever you want to do
-    });```
+    });
+```
