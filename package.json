@@ -1,6 +1,6 @@
 {
   "name": "node2sql",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "simple nodejs package, (based on 'tedious') for interacting to sql server databases",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "javascript"
   ],
   "author": "Vaso Bolkvadze <vaso.bolkvadze@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/VasoBolkvadze/nodeToSql/issues"
   },
